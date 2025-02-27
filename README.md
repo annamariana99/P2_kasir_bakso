@@ -1,1 +1,1 @@
-# P2_kasir_bakso
+# kasir_bakso
