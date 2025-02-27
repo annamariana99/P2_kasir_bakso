@@ -60,10 +60,6 @@ Kasir / POS (Point of Sale) adalah web aplikasi yang berfungsi untuk tempat di m
   
   
   -> Catatan(PENTING) :
-    <i>Sebelum mengimport database, pastikan anda membuat database sesuai dengan nama database yang ada di dalam folder db, yaitu 'kasir_zibran.sql'</i>
+    <i>Sebelum mengimport database, pastikan anda membuat database sesuai dengan nama database yang ada di dalam folder db, yaitu 'kasir_anna.sql'</i>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-Jika ada bagian yang error atau yang ada ingin ditambahkan mohon hubungi :
-1. Whatsapp = 0895635729348<br>
-<strong> HARAP JANGAN MENGUBAH COPYRIGHT YANG ADA DI FOOTER WEBSITE!</strong>
->>>>>>> 331acb5 (push proyek)
